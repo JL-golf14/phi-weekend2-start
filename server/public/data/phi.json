@@ -3,87 +3,111 @@
     {
       "name" : "Melissa E Hare",
       "git_username" : "Melissa-Elizabeth",
-      "shoutout" : ""
+      "shoutout" : "",
+			"imageURL":"https://media4.giphy.com/media/MVaCIelHCrg1q/200.webp#1"
     },
     {
       "name" : "Chad Sundberg",
       "git_username" : "chadsundberg",
-      "shoutout" : "Celina!!  She taught me how to use two fingers to scroll in my open windows!  Oh, and I'd like to thank var taco!"
+      "shoutout" : "Celina!!  She taught me how to use two fingers to scroll in my open windows!  Oh, and I'd like to thank var taco!",
+			"imageURL":"https://media3.giphy.com/media/TUyaT7p6ylsWc/200.webp#212"
     },
     {
       "name" : "Christine Pogatchnik",
       "git_username" : "kikipogo",
-      "shoutout" : "Everyone"
+      "shoutout" : "Everyone",
+			"imageURL":"https://media0.giphy.com/media/oeBvlfRYAq1OM/200.webp#202"
     },
     {
       "name" : "Thomas Johander",
       "git_username" : "lopan455",
-      "shoutout" : "Yo! Thanks for that!"
+      "shoutout" : "Yo! Thanks for that!",
+			"imageURL":"https://media4.giphy.com/media/2caj4ptjHwKC4/200.webp#242"
     },
     {
       "name" : "Edmund Wippler",
       "git_username" : "edwippler",
-      "shoutout" : ""
+      "shoutout" : "",
+			"imageURL":"https://media2.giphy.com/media/dLYXITbrq5AS4/200.webp#118"
     },
     {
       "name" : "Jonny Holupchinski",
       "git_username" : "jonholup",
-      "shoutout" : ""
+      "shoutout" : "",
+			"imageURL":"https://media1.giphy.com/media/SO3wUrRomlqBG/200.webp#94"
     },
     {
       "name" : "Catherine Jarocki",
       "git_username" : "cjaro",
-      "shoutout" : "Thank you to the internet of resources!"
+      "shoutout" : "Thank you to the internet of resources!",
+			"imageURL":"https://media2.giphy.com/media/qhSje9wu09WYo/200.webp#165"
     },
     {
       "name" : "Kris Jensen",
       "git_username" : "kristinejensen",
-      "shoutout" : "Thank you to Luke, Kris, and Chris for being great instructors!"
+      "shoutout" : "Thank you to Luke, Kris, and Chris for being great instructors!",
+			"imageURL":"https://media0.giphy.com/media/Mb03MJAdKSlaM/200.webp#246"
     },
     {
       "name" : "Paul Dunkirk",
       "git_username" : "pauldunkirk",
-      "shoutout" : "Phi peops rock!"
+      "shoutout" : "Phi peops rock!",
+			"imageURL":"https://media2.giphy.com/media/2WZjCWOI12jIc/200.webp#172"
     },
     {
       "name" : "Celina",
       "git_username" : "celina",
-      "shoutout" : "Peace out!"
+      "shoutout" : "Peace out!",
+			"imageURL":"https://media0.giphy.com/media/JfWbs3lXRPi2A/200w.webp#39"
     },
     {
       "name" : "Chris Stanton",
       "git_username" : "chris-stanton",
-      "shoutout" : ""
+      "shoutout" : "",
+			"imageURL":"https://media3.giphy.com/media/3orieRgcxDJfZwStLW/200.webp#65"
     },
     {
       "name" : "Philip Curtis",
       "git_username" : "PCSailor",
-      "shoutout" : "Thanks to Luke and Kris, and Chris, Scott, & Fred"
+      "shoutout" : "Thanks to Luke and Kris, and Chris, Scott, & Fred",
+			"imageURL":"http://p.fod4.com/p/media/823e176f26/P791ArxTIeaKbIgbBgmo_Lady%20Gaga%20Top%20Rope.gif"
     },
     {
       "name" : "Sam Velie",
       "git_username" : "samvelie",
-      "shoutout" : "Love y'all "
+      "shoutout" : "Love y'all ",
+			"imageURL":"https://media0.giphy.com/media/qC9tNxee6JmLe/200.webp#224"
     },
     {
       "name" : "Paige Bystrom",
       "git_username" : "Radmint",
-      "shoutout" : "Thanks to Phi cohort for being awesome, positive people! "
+      "shoutout" : "Thanks to Phi cohort for being awesome, positive people! ",
+			"imageURL":"https://media3.giphy.com/media/l7b8RIh6s68o/200.webp#261"
     },
     {
       "name" : "Jeremy Leif",
       "git_username" : "JL-golf14",
-      "shoutout" : "break down the Phirewalls of doubt!!!"
+      "shoutout" : "break down the Phirewalls of doubt!!!",
+			"imageURL":"http://p.fod4.com/p/media/823e176f26/h4zH9Mv7SGyvaGtxrCXA_Bridge%20Dive%20Water.gif"
     },
     {
       "name" : "Kris Szafranski",
       "git_username" : "kdszafranski",
-      "shoutout" : "Thank you to Phi for your open, warm, and thoughtful speeches. You rekindle my faith in humanity!"
+      "shoutout" : "Thank you to Phi for your open, warm, and thoughtful speeches. You rekindle my faith in humanity!",
+			"imageURL":"https://media0.giphy.com/media/Riu1ykUwcH6mI/200.webp#31"
     },
     {
       "name" : "Luke Schlangen",
       "git_username" : "lukeschlangen",
-      "shoutout" : "Huge thanks to everyone in Phi for sharing such personal and inspiring stories about change."
+      "shoutout" : "Huge thanks to everyone in Phi for sharing such personal and inspiring stories about change.",
+			"imageURL":"https://media2.giphy.com/media/3o7TKFyEQyEmIZNA0E/200.webp#3"
+    },
+		{
+      "name" : "Arrielle Kooiman",
+      "git_username" : "Arrielle",
+      "shoutout" : "Y'all have been PHInomenal",
+			"imageURL":"https://media.giphy.com/media/6qy3j6UCL6tiM/giphy.gif"
     }
+
   ]
 }
